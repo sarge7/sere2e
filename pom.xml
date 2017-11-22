@@ -128,8 +128,8 @@
                         <!--<browserstack.browser>ie</browserstack.browser>-->
                         <!--<browserstack.browser_version>6</browserstack.browser_version>-->
                         <!--<browserstack.local>true</browserstack.local>-->
-                        <browserstack.os>${bs.os}</browserstack.os>
-                        <browserstack.browser>${bs.browser}</browserstack.browser>
+                        <!--<browserstack.os>${bs.os}</browserstack.os>-->
+                        <!--<browserstack.browser>${bs.browser}</browserstack.browser>-->
                         <!--<browserstack.debug>true</browserstack.debug>-->
                         <!--<webdriver.driver>chrome</webdriver.driver>-->
                     </systemPropertyVariables>
