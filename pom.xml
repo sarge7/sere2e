@@ -123,7 +123,7 @@
                     <systemPropertyVariables>
                         <webdriver.base.url>${webdriver.base.url}</webdriver.base.url>
                         <browserstack.url>
-                            ${bs.url}
+                            ${bs_url}
                         </browserstack.url>
                         <!--<browserstack.browser>ie</browserstack.browser>-->
                         <!--<browserstack.browser_version>6</browserstack.browser_version>-->
@@ -181,9 +181,9 @@
             <id>BS_CHROME</id>
             <properties>
                 <tags>fast</tags>
-                <bs.url>
-                    http://pawel200:2Pg49Dr6VsskpLLMdmdc@hub-cloud.browserstack.com/wd/hub
-                </bs.url>
+                <bs_url>
+
+                </bs_url>
                 <bs.browser>chrome</bs.browser>
                 <bs.os>WINDOWS</bs.os>
             </properties>
@@ -191,9 +191,8 @@
         <profile>
             <id>BS_FIREFOX</id>
             <properties>
-                <bs.url>
-                    http://pawel200:2Pg49Dr6VsskpLLMdmdc@hub-cloud.browserstack.com/wd/hub
-                </bs.url>
+                <bs_url>
+                </bs_url>
                 <bs.browser>chrome</bs.browser>
                 <bs.os>WINDOWS</bs.os>
             </properties>
