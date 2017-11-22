@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bottega.ser.GoogleE2ETest" skipped="0" tests="1" time="0.99" timestamp="2017-11-22T11:46:24.479+01:00[Europe/Belgrade]"><testcase classname="com.bottega.ser.GoogleE2ETest" name="Should search for animal"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+com.bottega.ser.steps.SearcherSteps.opensGooglePage(SearcherSteps.java:17)&#13;
+com.bottega.ser.GoogleE2ETest.should_search_for_animal(GoogleE2ETest.java:23)&#13;
+</system-err></testcase></testsuite>
