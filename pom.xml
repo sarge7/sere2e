@@ -181,9 +181,9 @@
             <id>BS_CHROME</id>
             <properties>
                 <tags>fast</tags>
-                <bs.url>
+                <bs_url>
 
-                </bs.url>
+                </bs_url>
                 <bs.browser>chrome</bs.browser>
                 <bs.os>WINDOWS</bs.os>
             </properties>
